@@ -2,4 +2,4 @@ This is one of the first projects I have done while learning **JavaScript**, it 
 
 
 
-  ![Image](https://iili.io/J8nkMFe.png)
+  ![Image](https://iili.io/J8n8pj4.png)
